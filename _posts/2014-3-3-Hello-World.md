@@ -4,8 +4,6 @@ title: Azure AD authentication with AVD VM's
 published: true
 ---
 
-# Azure AD authentication with AVD VM's
-
 ## 3 Key items after setting up your AVD environment to check
 
 - Add one of the following IAM Roles in each VM your deploying.
