@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure AD authentication with AVD VM's
-published: false
+published: true
 ---
 ![avdimg.jpg]({{site.baseurl}}/_posts/avdimg.jpg)
 
@@ -21,5 +21,3 @@ published: false
 
 - MFA will block login attempts.
 --you need to get conditional access going and set the app as excluded.
-
-
