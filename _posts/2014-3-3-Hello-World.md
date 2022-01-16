@@ -4,7 +4,7 @@ title: Azure AD authentication with AVD VM's
 published: true
 ---
 
-![AVD Checklist]({{site.baseurl}}/https://www.ciraltos.com/wp-content/uploads/2020/05/WVD.png)
+![AVD Checklist]({{site.baseurl}}/https://www.ayoubkochbati.com/wp-content/uploads/2021/09/wvd-520x293-1.png)
 ## 3 Key items after setting up your AVD environment to check
 
 - Add one of the following IAM Roles in each VM your deploying.
