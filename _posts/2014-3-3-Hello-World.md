@@ -4,6 +4,7 @@ title: Azure AD authentication with AVD VM's
 published: true
 ---
 ![avdimg.jpg]({{site.baseurl}}/_posts/avdimg.jpg)
+<img src="{{site.baseurl}}/_posts/avdimg.jpg" class="img-responsive" alt="">
 
 
 ## 3 Key items after setting up your AVD environment to check
