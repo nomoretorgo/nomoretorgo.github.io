@@ -4,6 +4,8 @@ title: Azure AD authentication with AVD VM's
 published: true
 ---
 
+[logo]: https://www.ciraltos.com/wp-content/uploads/2020/05/WVD.png "AVD Checklist"
+
 ## 3 Key items after setting up your AVD environment to check
 
 - Add one of the following IAM Roles in each VM your deploying.
@@ -17,5 +19,3 @@ published: true
 
 - MFA will block login attempts.
 --you need to get conditional access going and set the app as excluded.
-
-
