@@ -4,7 +4,7 @@ title: Azure AD authentication with AVD VM's
 published: false
 ---
 
-
+![AVDImg.png]({{site.baseurl}}/_posts/AVDImg.png)
 ## 3 Key items after setting up your AVD environment to check
 
 
@@ -23,3 +23,6 @@ published: false
 
 - MFA will block login attempts.
 --you need to get conditional access going and set the app as excluded.
+
+
+![AVDImg.png]({{site.baseurl}}/_posts/AVDImg.png)
