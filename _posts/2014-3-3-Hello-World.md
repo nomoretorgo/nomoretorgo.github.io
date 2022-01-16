@@ -12,8 +12,8 @@ published: true
 -- Virtual desktop admin
 -- Virtual desktop user
 
-![AVD logo]({{site.baseurl}}/_posts/AVDImg.png)
-
+[AVD logo]:({{site.baseurl}}/_posts/AVDImg.png)
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 - Authetication with Azure AD
 -- This is a particularly irritating missing configuration on microsofts part.  You must add targetisaadjoined:i:1 in order to successfully authenticate with Azure AD accounts.
