@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## What to do with our Azure classic (WVD) environments?
 
@@ -20,4 +20,3 @@ I have talking to Microsoft regarding this issue this week.  It turns out there 
 It’s also still not clear on how to add these existing VM’s to Azure Active Directory.  VM’s launched in Azure Hostpools have been missing the join Azure AD option with absolutely no explanation of why.  Support hasen’t provided a good explanation for this to me, but one individual suggested the reinstallation of the Azure Virtual Desktop Agent Bootloader in a AVD hostpool will join the VM to Azure AD.  I’ve yet to get this to function however.
 
 Thus we come to the concussion I’m sure you guessed at the beginning.  Migration of WVD to AVD is simply not worth the effort.   Instead manually migrate your data to a new AVD environment and hope Microsoft doesn’t depreciate this environment in the same way next year.
-
