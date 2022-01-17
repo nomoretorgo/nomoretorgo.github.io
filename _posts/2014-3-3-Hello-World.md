@@ -6,6 +6,7 @@ published: true
 ![avdimg.jpg](./_posts/avdimg.jpg)
 <img src="./_posts/avdimg.jpg" class="img-responsive" alt="">
 
+<img src="./avdimg.jpg" width="400" alt="hi" class="inline"/>
 
 ## 3 Key items after setting up your AVD environment to check
 
