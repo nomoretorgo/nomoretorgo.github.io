@@ -4,6 +4,7 @@ title: Azure AD authentication with AVD VM's
 published: true
 ---
 
+![AVD](https://github.com/nomoretorgo/nomoretorgo.github.io/raw/master/_posts/azure.microsoft.com.png)
 
 ## 3 Key items after setting up your AVD environment to check
 
@@ -12,20 +13,9 @@ published: true
 -- Virtual desktop admin
 -- Virtual desktop user
 
-![avdimg.jpg](./avdimg.jpg)
-
-![My Image](avdimg.jpg)
-
-![avdimg.jpg]({{site.baseurl}}/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/avdimg.jpg)
-
-
-![test image]({{site.baseurl}}/_posts/azure.microsoft.com.png)
-
-![test image2](https://github.com/nomoretorgo/nomoretorgo.github.io/raw/master/_posts/azure.microsoft.com.png)
-
 
 - Authetication with Azure AD
--- This is a particularly irritating missing configuration on microsofts part.  You must add targetisaadjoined:i:1 in order to successfully authenticate with Azure AD accounts.
+-- You must add targetisaadjoined:i:1 in order to successfully authenticate with Azure AD accounts.
 -- set this in hostpool->rdp properties -> advanced
 
 
