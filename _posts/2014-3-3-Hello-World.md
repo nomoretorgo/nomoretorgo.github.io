@@ -18,6 +18,8 @@ published: true
 
 ![avdimg.jpg](https://github.com/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/avdimg.jpg)
 
+![test image]({{site.baseurl}}/_posts/azure.microsoft.com.png)
+
 
 - Authetication with Azure AD
 -- This is a particularly irritating missing configuration on microsofts part.  You must add targetisaadjoined:i:1 in order to successfully authenticate with Azure AD accounts.
