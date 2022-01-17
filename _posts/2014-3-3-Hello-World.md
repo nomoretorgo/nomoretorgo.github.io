@@ -3,11 +3,7 @@ layout: post
 title: Azure AD authentication with AVD VM's
 published: true
 ---
-![avdimg.jpg](../_posts/avdimg.jpg)
-[avdimg.jpg](https://github.com/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/avdimg.jpg)
-<img src="./_posts/avdimg.jpg" class="img-responsive" alt="">
 
-<img src="./avdimg.jpg" width="400" alt="hi" class="inline"/>
 
 ## 3 Key items after setting up your AVD environment to check
 
@@ -16,6 +12,11 @@ published: true
 -- Virtual desktop admin
 -- Virtual desktop user
 
+![avdimg.jpg](../_posts/avdimg.jpg)
+![avdimg.jpg](https://github.com/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/avdimg.jpg)
+<img src="./_posts/avdimg.jpg" class="img-responsive" alt="hi">
+
+<img src="./avdimg.jpg" width="400" alt="hi-2" class="inline"/>
 
 - Authetication with Azure AD
 -- This is a particularly irritating missing configuration on microsofts part.  You must add targetisaadjoined:i:1 in order to successfully authenticate with Azure AD accounts.
