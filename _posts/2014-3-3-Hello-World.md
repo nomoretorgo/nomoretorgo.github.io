@@ -4,7 +4,7 @@ title: Azure AD authentication with AVD VM's
 published: true
 ---
 ![avdimg.jpg](../_posts/avdimg.jpg)
-[avdimg.jpg](./avdimg.jpg)
+[avdimg.jpg](https://github.com/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/avdimg.jpg)
 <img src="./_posts/avdimg.jpg" class="img-responsive" alt="">
 
 <img src="./avdimg.jpg" width="400" alt="hi" class="inline"/>
