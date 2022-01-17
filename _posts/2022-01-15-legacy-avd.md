@@ -1,6 +1,7 @@
 ---
 published: true
 ---
+# What now for our existing Legacy AVD environments?
 ![AVD Classic](https://github.com/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/avd-classic.png?raw=true)
 
 
