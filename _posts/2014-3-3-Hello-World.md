@@ -13,10 +13,11 @@ published: true
 -- Virtual desktop user
 
 ![avdimg.jpg](../_posts/avdimg.jpg)
-![avdimg.jpg](https://github.com/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/avdimg.jpg)
-<img src="./_posts/avdimg.jpg" class="img-responsive" alt="hi">
 
-<img src="./avdimg.jpg" width="400" alt="hi-2" class="inline"/>
+![My Image](../_posts/avdimg.jpg)
+
+![avdimg.jpg](https://github.com/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/avdimg.jpg)
+
 
 - Authetication with Azure AD
 -- This is a particularly irritating missing configuration on microsofts part.  You must add targetisaadjoined:i:1 in order to successfully authenticate with Azure AD accounts.
