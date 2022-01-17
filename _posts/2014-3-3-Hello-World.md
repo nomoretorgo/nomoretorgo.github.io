@@ -16,9 +16,12 @@ published: true
 
 ![My Image](avdimg.jpg)
 
-![avdimg.jpg](https://github.com/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/avdimg.jpg)
+![avdimg.jpg]({{site.baseurl}}/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/avdimg.jpg)
+
 
 ![test image]({{site.baseurl}}/_posts/azure.microsoft.com.png)
+
+![test image2](/nomoretorgo/nomoretorgo.github.io/blob/master//_posts/azure.microsoft.com.png)
 
 
 - Authetication with Azure AD
