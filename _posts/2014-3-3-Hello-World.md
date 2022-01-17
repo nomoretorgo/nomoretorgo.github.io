@@ -21,7 +21,7 @@ published: true
 
 ![test image]({{site.baseurl}}/_posts/azure.microsoft.com.png)
 
-![test image2](/nomoretorgo/nomoretorgo.github.io/blob/master//_posts/azure.microsoft.com.png)
+![test image2](https://github.com/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/azure.microsoft.com.png)
 
 
 - Authetication with Azure AD
