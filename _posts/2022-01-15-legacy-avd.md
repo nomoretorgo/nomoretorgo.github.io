@@ -1,6 +1,9 @@
 ---
 published: true
 ---
+![AVD Classic](https://github.com/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/avd-classic.png?raw=true)
+
+
 ## What to do with our Azure classic (WVD) environments?
 
 Azure classic aka WVD has been discontinued by Microsoft replaced by AVD.  Just speaking with Microsoft support I got some interesting news that AVD is also still in beta.  So to be clear, Microsoft discontinued WVD and replaced it with a product which is still in beta...   
