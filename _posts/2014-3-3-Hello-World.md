@@ -12,9 +12,9 @@ published: true
 -- Virtual desktop admin
 -- Virtual desktop user
 
-![avdimg.jpg](../_posts/avdimg.jpg)
+![avdimg.jpg](./avdimg.jpg)
 
-![My Image](../_posts/avdimg.jpg)
+![My Image](avdimg.jpg)
 
 ![avdimg.jpg](https://github.com/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/avdimg.jpg)
 
