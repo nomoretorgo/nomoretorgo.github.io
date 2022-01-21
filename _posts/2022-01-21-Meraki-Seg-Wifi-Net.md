@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # With Meraki MX, Segregated wifi network vlan 
 
