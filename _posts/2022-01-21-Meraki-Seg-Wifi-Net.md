@@ -9,7 +9,7 @@ published: false
 ### Step:  Create Vlan
 Security & SD-WAN -> Configure -> Addressing & VLANs -> Routing -> Add Vlan
 
-![Add VLAN, Meraki]({{site.baseurl}}/_posts/modVLAN.png)
+![Add VLAN, Meraki](https://github.com/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/modVLAN.png?raw=true)
 
 
 ### Step:  create a group policy to deny
@@ -17,9 +17,9 @@ Network-wide -> configure -> Group Policies -> new policy
 
 Create layer 3 deny rules for any subnet that you are wanting to Not allow visitation.
 
-![meraki, group policy]({{site.baseurl}}/_posts/group-policy-deny.png)
+![meraki, group policy](https://github.com/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/group-policy-deny.png?raw=true)
+
 
 
 ### Step:  Link group policy 
 Security & SD-WAN -> Configure -> Addressing & VLANs -> Routing -> select vlan -> assign our group policy
-
