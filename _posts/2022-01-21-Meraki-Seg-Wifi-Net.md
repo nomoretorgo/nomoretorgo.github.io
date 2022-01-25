@@ -21,5 +21,10 @@ Create layer 3 deny rules for any subnet that you are wanting to Not allow visit
 
 
 
-### Step:  Link group policy 
+### Step:  Link VLAN to group policy 
 Security & SD-WAN -> Configure -> Addressing & VLANs -> Routing -> select vlan -> assign our group policy
+
+### Step:  Link devices to the group policy 
+Lookup client device, scroll down and change the policy 
+
+![device-groupPolicy.jpg](https://github.com/nomoretorgo/nomoretorgo.github.io/blob/master/_posts/_posts/device-groupPolicy.jpg?raw=true)
