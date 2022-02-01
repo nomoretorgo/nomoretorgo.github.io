@@ -27,8 +27,8 @@ Get-HostedOutboundSpamFilterPolicy
 
 ![hostedoutbound.png]({{site.baseurl}}/hostedoutbound.png)
 
-
-<br>
+--------------------------------------------------------------------------------------
+  
 
 ## If fowards are still blocked
 ### Navigate to Mail Flow -> Remote domains in Exchange Portal
@@ -38,4 +38,3 @@ Select the Default list item ->Edit reply types
 Make sure Allow Automatic Forwarding is checked.
 
 ![remotedomain.png]({{site.baseurl}}/remotedomain.png)
-
