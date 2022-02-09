@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 #  Mining user assigned mangers via Powershell 
@@ -23,6 +23,3 @@ for ($i=0;$i -lt $real_list.Count; $i++) {
 
 ### Create an office 365 group with our array of objects
 New-UnifiedGroup -Name peopleleaders -DisplayName "People Leaders" -Members $real_obj_list.primarysmtpaddress
-
-
-
