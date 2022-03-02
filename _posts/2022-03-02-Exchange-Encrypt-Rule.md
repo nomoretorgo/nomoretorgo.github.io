@@ -6,7 +6,7 @@ published: true
 ![how-to-encrypt-email_thumb800.jpg]({{site.baseurl}}/how-to-encrypt-email_thumb800.jpg)
 
 
-## Issues with Exchange control statments
+## Issues with Exchange control statements
 
 Summary:  Exchange rules are setup to allow or block message flow based on rules which allow control logic.  However, this control logic does not funciton correctly and a work around is required.
 
