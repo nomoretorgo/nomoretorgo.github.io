@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Allow Encrypted messages, Block those with Sensitive
 
@@ -20,4 +20,3 @@ Summary:  Exchange rules are setup to allow or block message flow based on rules
 ### Work around
 -  First create a rule for all encrypted messages that does NOTHING.  This rule must have a higher priority. This will allow encrypted messages to be sent.
 -  Second create the rule to block all messages that contain sensitive information with less priority than the first rule.
-
