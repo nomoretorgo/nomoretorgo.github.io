@@ -8,7 +8,7 @@ published: true
 
 ## Issues with Exchange control statements
 
-Summary:  Exchange rules are setup to allow or block message flow based on rules which allow control logic.  However, this control logic does not funciton correctly and a work around is required.
+Summary:  Exchange rules are setup to allow or block message flow based on rules which allow control logic.  However, this control logic does not function correctly and a work around is required.
 
 ### Goal:  
 -  Create a rule to block all emails that contain sensitive information, but allow them if encrypted.
@@ -17,7 +17,7 @@ Summary:  Exchange rules are setup to allow or block message flow based on rules
 -  Sensitivity labels need to be created and published to facilitate encryption 
 
 ### Core issue:  
--  While you can add an exception to your Rule for messages that are "encrypted" this functionality actually **DOES NOT WORK**.  This is also increadibly frustrating because rules can take time to propogate and test.
+-  While you can add an exception to your Rule for messages that are “encrypted” this functionality actually DOES NOT WORK.  This is also incredibly frustrating because rules can take time to propagate and test.
 
 
 ### Work around
